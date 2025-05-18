@@ -45,7 +45,7 @@ I’m a **BSc IT graduate** with a strong foundation in **data analysis, statist
 | Project | Tech Stack | Summary |
 |--------|------------|---------|
 | 📈 **Sales Dashboard** | Power BI | Built a dynamic dashboard analyzing regional sales KPIs and trends. |
-| 🧠 **Churn Prediction** | Python, Jupyter, Pandas, Matplotlib | Modeled customer churn using logistic regression and visualization. |
+| 🧠 **Bill Management System** | Java, Javax| Design a bill management system for a small resturant |
 | 🛒 **E-commerce Insights** | SQL, Excel | Analyzed transactional data to uncover product and customer trends. |
 | 🌐 **Portfolio Website** | HTML, CSS, JavaScript | Created a personal website to showcase projects and skills. |
 
