@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Pradeep Parihar</h1>
 <h3 align="center">🎓 BSc IT Graduate | 📊 Data Enthusiast | 💡 Lifelong Learner</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
@@ -65,8 +65,8 @@ I’m a **BSc IT graduate** with a strong foundation in **data analysis, statist
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Pradeepparihar471@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="linkedin.com/in/pradeepparihar3030" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
